@@ -1,2 +1,6 @@
 # 「Androidテスト全書」サンプルコード
-(6章のサンプルコードは準備中です。5章のサンプルコードはhttps://github.com/peaks-cc/espresso-test-sample を参照してください。)
+このリポジトリは自分が検証するためにforkしたもの
+
+original
+https://github.com/peaks-cc/android_testing_samplecode
+
